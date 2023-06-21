@@ -8,10 +8,6 @@ def test_everything_works():
     npt.assert_array_equal(np.array([0, 0]), np.array([0, 0]))
 
 
-<<<<<<< HEAD
-## Ammend
-=======
 # Duplicated
->>>>>>> added_comments_branch
 def test_everything_works():
     npt.assert_array_equal(np.array([0, 0]), np.array([0, 0]))
