@@ -25,3 +25,6 @@ def test_daily_mean(test, expected):
     """Test mean function works for array of zeroes and positive integers"""
 
     npt.assert_array_equal(np.array(expected), daily_mean(np.array(test)))
+
+
+## Not again
